@@ -1,0 +1,52 @@
+Html {
+    padding: 0px;
+}
+body {
+    padding: 0px;
+    color: black;
+}
+.header {
+     padding: 20px;
+     background: #76FF03 ;
+     height: 60px;
+     line-height: 60px;
+     color: black;
+ }
+ h1 {
+     float: left;
+     margin: 0px;
+     color: black;
+ }
+ ul { 
+     float: right;
+     list-style-type: none;
+     color: black;
+ }
+
+ li {
+     float: left;
+     margin-left: 20px;
+     color: black;
+ }
+ a { 
+     text-decoration: none;
+}
+.content { 
+        width: 70%;
+        float: left;
+        background-color: lightgray;
+        height: 500px;
+
+}
+
+.sidebar {
+        Width: 30%;
+        float: left;
+        background-color: grey;
+        color: white;
+        height: 500px;
+    
+}
+p {
+    margin: 20px;
+}
